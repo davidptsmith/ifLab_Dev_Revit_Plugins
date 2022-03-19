@@ -2,6 +2,8 @@
 
 Automation and user experience tools to make architects lives easier. 
 
+The tools are built in C# using WPF for the user interface. 
+
 The actual software is not provided here, if you wish to trial the software please let me know. 
 
 ## Help Docs for the Tools 
