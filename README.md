@@ -14,11 +14,7 @@ The actual software is not provided here, if you wish to trial the software plea
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_04.jpg" width=100% />
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_05.jpg" width=100% />
 
-
-<iframe width="560" height="315" src="https://youtu.be/s7mfZCDdE38" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/s7mfZCDdE38/0.jpg)](https://www.youtube.com/watch?v=s7mfZCDdE38)
 
 
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_06.jpg" width=100% />
