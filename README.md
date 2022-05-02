@@ -16,13 +16,7 @@ The actual software is not provided here, if you wish to trial the software plea
 
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_05.jpg" width=100% />
 
-### Demo Video
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/s7mfZCDdE38" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
 
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_06.jpg" width=100% />
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_07.jpg" width=100% />
