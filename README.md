@@ -15,7 +15,11 @@ The actual software is not provided here, if you wish to trial the software plea
 
 # Edit Parameters
 <br/>
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/s7mfZCDdE38&t=3s/0.jpg)](http://www.youtube.com/watch?v=s7mfZCDdE38&t=3s "Revit: Edit Parameters (if/Lab_Dev_)")
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/s7mfZCDdE38/0.jpg)](http://www.youtube.com/watch?v=s7mfZCDdE38 "Revit: Edit Parameters (if/Lab_Dev_)")
+
+[![Revit: Edit Parameters](https://img.youtube.com/vi/s7mfZCDdE38/0.jpg)](https://www.youtube.com/watch?v=s7mfZCDdE38 "Revit: Edit Parameters")
+
 <br/>
 
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_05.jpg" width=100% />
