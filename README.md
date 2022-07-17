@@ -15,10 +15,12 @@ The actual software is not provided here, if you wish to trial the software plea
 
 # Edit Parameters
 <br/>
-
+### Youtube:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/s7mfZCDdE38/0.jpg)](http://www.youtube.com/watch?v=s7mfZCDdE38 "Revit: Edit Parameters (if/Lab_Dev_)")
 
 <br/>
+
+### How to use:
 
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_05.jpg" width=100% />
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_06.jpg" width=100% />
