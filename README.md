@@ -14,10 +14,10 @@ The actual software is not provided here, if you wish to trial the software plea
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_04.jpg" width=100% />
 
 ### Edit Parameters
+<br/>
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_05.jpg" width=100% />
 
-<iframe width="1280" height="693" src="https://www.youtube.com/embed/s7mfZCDdE38" title="Revit: Edit Parameters (if/Lab_Dev_)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/s7mfZCDdE38/0.jpg)](https://www.youtube.com/watch?v=s7mfZCDdE38)
 
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_06.jpg" width=100% />
 <img src="./00 Images/IfLab_Dev_RevitTools_Page_07.jpg" width=100% />
