@@ -1,9 +1,9 @@
 
 ## if/Lab_Dev Revit Tools 
 
-Automation and user experience tools to make architects lives easier. 
+Automation and user experience tools to make architects lives easier, reduce risk and increase accountability throughout the design process. 
 
-I built all of these tools in C# using WPF for the user interface. 
+These tools were built using C# with WPF for the user interface. 
 
 The actual software is not provided here, if you wish to trial the software please let me know. 
 
